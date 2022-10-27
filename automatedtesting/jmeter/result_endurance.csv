@@ -1,0 +1,91 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1666541991072,3772,Get Users,200,OK,endurance 1-1,text,true,,784,149,2,2,https://p3demo-appservice.azurewebsites.net/api/Users,3772,0,493
+1666541993072,1774,Get Users,200,OK,endurance 1-2,text,true,,784,149,2,2,https://p3demo-appservice.azurewebsites.net/api/Users,1774,0,405
+1666541994845,189,Delete Users,200,OK,endurance 1-1,text,true,,310,151,2,2,https://p3demo-appservice.azurewebsites.net/api/Users/2,189,0,0
+1666541994847,192,Delete Users,200,OK,endurance 1-2,text,true,,310,151,2,2,https://p3demo-appservice.azurewebsites.net/api/Users/4,192,0,0
+1666541995034,132,Get User by ID,200,OK,endurance 1-1,text,true,,310,151,3,3,https://p3demo-appservice.azurewebsites.net/api/Users/2,132,0,0
+1666541995039,134,Get User by ID,200,OK,endurance 1-2,text,true,,310,151,2,2,https://p3demo-appservice.azurewebsites.net/api/Users/4,134,0,0
+1666541995068,573,Get Users,200,OK,endurance 1-3,text,true,,784,149,1,1,https://p3demo-appservice.azurewebsites.net/api/Users,573,0,431
+1666541995641,125,Delete Users,200,OK,endurance 1-3,text,true,,310,151,1,1,https://p3demo-appservice.azurewebsites.net/api/Users/6,125,0,0
+1666541995766,127,Get User by ID,200,OK,endurance 1-3,text,true,,310,151,1,1,https://p3demo-appservice.azurewebsites.net/api/Users/6,127,0,0
+1666541997070,572,Get Users,200,OK,endurance 1-4,text,true,,784,149,1,1,https://p3demo-appservice.azurewebsites.net/api/Users,571,0,421
+1666541997642,138,Delete Users,200,OK,endurance 1-4,text,true,,310,151,1,1,https://p3demo-appservice.azurewebsites.net/api/Users/8,138,0,0
+1666541997781,131,Get User by ID,200,OK,endurance 1-4,text,true,,310,151,1,1,https://p3demo-appservice.azurewebsites.net/api/Users/8,131,0,0
+1666541999068,540,Get Users,200,OK,endurance 1-5,text,true,,784,149,1,1,https://p3demo-appservice.azurewebsites.net/api/Users,540,0,404
+1666541999608,126,Delete Users,200,OK,endurance 1-5,text,true,,313,152,1,1,https://p3demo-appservice.azurewebsites.net/api/Users/10,126,0,0
+1666541999735,124,Get User by ID,200,OK,endurance 1-5,text,true,,313,152,1,1,https://p3demo-appservice.azurewebsites.net/api/Users/10,124,0,0
+1666542001068,586,Get Users,200,OK,endurance 1-6,text,true,,784,149,1,1,https://p3demo-appservice.azurewebsites.net/api/Users,586,0,440
+1666542001655,138,Delete Users,200,OK,endurance 1-6,text,true,,310,151,1,1,https://p3demo-appservice.azurewebsites.net/api/Users/2,138,0,0
+1666542001795,139,Get User by ID,200,OK,endurance 1-6,text,true,,310,151,1,1,https://p3demo-appservice.azurewebsites.net/api/Users/2,139,0,0
+1666542003079,539,Get Users,200,OK,endurance 1-7,text,true,,784,149,1,1,https://p3demo-appservice.azurewebsites.net/api/Users,539,0,400
+1666542003619,127,Delete Users,200,OK,endurance 1-7,text,true,,310,151,1,1,https://p3demo-appservice.azurewebsites.net/api/Users/4,127,0,0
+1666542003746,127,Get User by ID,200,OK,endurance 1-7,text,true,,310,151,1,1,https://p3demo-appservice.azurewebsites.net/api/Users/4,127,0,0
+1666542005069,606,Get Users,200,OK,endurance 1-8,text,true,,784,149,1,1,https://p3demo-appservice.azurewebsites.net/api/Users,606,0,460
+1666542005675,134,Delete Users,200,OK,endurance 1-8,text,true,,310,151,1,1,https://p3demo-appservice.azurewebsites.net/api/Users/6,134,0,0
+1666542005809,135,Get User by ID,200,OK,endurance 1-8,text,true,,310,151,1,1,https://p3demo-appservice.azurewebsites.net/api/Users/6,135,0,0
+1666542007064,565,Get Users,200,OK,endurance 1-9,text,true,,784,149,1,1,https://p3demo-appservice.azurewebsites.net/api/Users,565,0,421
+1666542007630,139,Delete Users,200,OK,endurance 1-9,text,true,,310,151,1,1,https://p3demo-appservice.azurewebsites.net/api/Users/8,139,0,0
+1666542007770,135,Get User by ID,200,OK,endurance 1-9,text,true,,310,151,1,1,https://p3demo-appservice.azurewebsites.net/api/Users/8,135,0,0
+1666542009069,569,Get Users,200,OK,endurance 1-10,text,true,,784,149,1,1,https://p3demo-appservice.azurewebsites.net/api/Users,569,0,424
+1666542009639,133,Delete Users,200,OK,endurance 1-10,text,true,,313,152,1,1,https://p3demo-appservice.azurewebsites.net/api/Users/10,132,0,0
+1666542009774,135,Get User by ID,200,OK,endurance 1-10,text,true,,313,152,1,1,https://p3demo-appservice.azurewebsites.net/api/Users/10,135,0,0
+1666542011073,548,Get Users,200,OK,endurance 1-11,text,true,,784,149,1,1,https://p3demo-appservice.azurewebsites.net/api/Users,548,0,412
+1666542011621,131,Delete Users,200,OK,endurance 1-11,text,true,,310,151,1,1,https://p3demo-appservice.azurewebsites.net/api/Users/2,131,0,0
+1666542011752,129,Get User by ID,200,OK,endurance 1-11,text,true,,310,151,1,1,https://p3demo-appservice.azurewebsites.net/api/Users/2,129,0,0
+1666542013067,597,Get Users,200,OK,endurance 1-12,text,true,,784,149,1,1,https://p3demo-appservice.azurewebsites.net/api/Users,597,0,454
+1666542013665,131,Delete Users,200,OK,endurance 1-12,text,true,,310,151,1,1,https://p3demo-appservice.azurewebsites.net/api/Users/4,131,0,0
+1666542013796,131,Get User by ID,200,OK,endurance 1-12,text,true,,310,151,1,1,https://p3demo-appservice.azurewebsites.net/api/Users/4,131,0,0
+1666542015064,571,Get Users,200,OK,endurance 1-13,text,true,,784,149,1,1,https://p3demo-appservice.azurewebsites.net/api/Users,571,0,426
+1666542015635,132,Delete Users,200,OK,endurance 1-13,text,true,,310,151,1,1,https://p3demo-appservice.azurewebsites.net/api/Users/6,132,0,0
+1666542015767,131,Get User by ID,200,OK,endurance 1-13,text,true,,310,151,1,1,https://p3demo-appservice.azurewebsites.net/api/Users/6,131,0,0
+1666542017068,542,Get Users,200,OK,endurance 1-14,text,true,,784,149,1,1,https://p3demo-appservice.azurewebsites.net/api/Users,542,0,408
+1666542017611,125,Delete Users,200,OK,endurance 1-14,text,true,,310,151,1,1,https://p3demo-appservice.azurewebsites.net/api/Users/8,125,0,0
+1666542017737,126,Get User by ID,200,OK,endurance 1-14,text,true,,310,151,1,1,https://p3demo-appservice.azurewebsites.net/api/Users/8,125,0,0
+1666542019064,557,Get Users,200,OK,endurance 1-15,text,true,,784,149,1,1,https://p3demo-appservice.azurewebsites.net/api/Users,557,0,416
+1666542019621,127,Delete Users,200,OK,endurance 1-15,text,true,,313,152,1,1,https://p3demo-appservice.azurewebsites.net/api/Users/10,127,0,0
+1666542019749,129,Get User by ID,200,OK,endurance 1-15,text,true,,313,152,1,1,https://p3demo-appservice.azurewebsites.net/api/Users/10,129,0,0
+1666542021061,541,Get Users,200,OK,endurance 1-16,text,true,,784,149,1,1,https://p3demo-appservice.azurewebsites.net/api/Users,541,0,399
+1666542021602,131,Delete Users,200,OK,endurance 1-16,text,true,,310,151,1,1,https://p3demo-appservice.azurewebsites.net/api/Users/2,131,0,0
+1666542021734,129,Get User by ID,200,OK,endurance 1-16,text,true,,310,151,1,1,https://p3demo-appservice.azurewebsites.net/api/Users/2,129,0,0
+1666542023061,589,Get Users,200,OK,endurance 1-17,text,true,,784,149,1,1,https://p3demo-appservice.azurewebsites.net/api/Users,589,0,452
+1666542023651,130,Delete Users,200,OK,endurance 1-17,text,true,,310,151,1,1,https://p3demo-appservice.azurewebsites.net/api/Users/4,130,0,0
+1666542023782,131,Get User by ID,200,OK,endurance 1-17,text,true,,310,151,1,1,https://p3demo-appservice.azurewebsites.net/api/Users/4,131,0,0
+1666542025065,592,Get Users,200,OK,endurance 1-18,text,true,,784,149,1,1,https://p3demo-appservice.azurewebsites.net/api/Users,592,0,437
+1666542025657,135,Delete Users,200,OK,endurance 1-18,text,true,,310,151,1,1,https://p3demo-appservice.azurewebsites.net/api/Users/6,135,0,0
+1666542025793,133,Get User by ID,200,OK,endurance 1-18,text,true,,310,151,1,1,https://p3demo-appservice.azurewebsites.net/api/Users/6,133,0,0
+1666542027063,555,Get Users,200,OK,endurance 1-19,text,true,,784,149,1,1,https://p3demo-appservice.azurewebsites.net/api/Users,555,0,423
+1666542027619,126,Delete Users,200,OK,endurance 1-19,text,true,,310,151,1,1,https://p3demo-appservice.azurewebsites.net/api/Users/8,126,0,0
+1666542027746,130,Get User by ID,200,OK,endurance 1-19,text,true,,310,151,1,1,https://p3demo-appservice.azurewebsites.net/api/Users/8,130,0,0
+1666542029063,559,Get Users,200,OK,endurance 1-20,text,true,,784,149,1,1,https://p3demo-appservice.azurewebsites.net/api/Users,559,0,417
+1666542029622,126,Delete Users,200,OK,endurance 1-20,text,true,,313,152,1,1,https://p3demo-appservice.azurewebsites.net/api/Users/10,126,0,0
+1666542029749,128,Get User by ID,200,OK,endurance 1-20,text,true,,313,152,1,1,https://p3demo-appservice.azurewebsites.net/api/Users/10,128,0,0
+1666542031060,569,Get Users,200,OK,endurance 1-21,text,true,,784,149,1,1,https://p3demo-appservice.azurewebsites.net/api/Users,569,0,428
+1666542031630,137,Delete Users,200,OK,endurance 1-21,text,true,,310,151,1,1,https://p3demo-appservice.azurewebsites.net/api/Users/2,137,0,0
+1666542031768,133,Get User by ID,200,OK,endurance 1-21,text,true,,310,151,1,1,https://p3demo-appservice.azurewebsites.net/api/Users/2,133,0,0
+1666542033060,550,Get Users,200,OK,endurance 1-22,text,true,,784,149,1,1,https://p3demo-appservice.azurewebsites.net/api/Users,550,0,417
+1666542033610,128,Delete Users,200,OK,endurance 1-22,text,true,,310,151,1,1,https://p3demo-appservice.azurewebsites.net/api/Users/4,128,0,0
+1666542033738,135,Get User by ID,200,OK,endurance 1-22,text,true,,310,151,1,1,https://p3demo-appservice.azurewebsites.net/api/Users/4,135,0,0
+1666542035068,567,Get Users,200,OK,endurance 1-23,text,true,,784,149,1,1,https://p3demo-appservice.azurewebsites.net/api/Users,567,0,426
+1666542035636,128,Delete Users,200,OK,endurance 1-23,text,true,,310,151,1,1,https://p3demo-appservice.azurewebsites.net/api/Users/6,128,0,0
+1666542035764,128,Get User by ID,200,OK,endurance 1-23,text,true,,310,151,1,1,https://p3demo-appservice.azurewebsites.net/api/Users/6,128,0,0
+1666542037060,539,Get Users,200,OK,endurance 1-24,text,true,,784,149,1,1,https://p3demo-appservice.azurewebsites.net/api/Users,539,0,402
+1666542037599,132,Delete Users,200,OK,endurance 1-24,text,true,,310,151,1,1,https://p3demo-appservice.azurewebsites.net/api/Users/8,132,0,0
+1666542037735,127,Get User by ID,200,OK,endurance 1-24,text,true,,310,151,1,1,https://p3demo-appservice.azurewebsites.net/api/Users/8,127,0,0
+1666542039064,568,Get Users,200,OK,endurance 1-25,text,true,,784,149,1,1,https://p3demo-appservice.azurewebsites.net/api/Users,568,0,434
+1666542039632,136,Delete Users,200,OK,endurance 1-25,text,true,,313,152,1,1,https://p3demo-appservice.azurewebsites.net/api/Users/10,136,0,0
+1666542039768,127,Get User by ID,200,OK,endurance 1-25,text,true,,313,152,1,1,https://p3demo-appservice.azurewebsites.net/api/Users/10,127,0,0
+1666542041059,553,Get Users,200,OK,endurance 1-26,text,true,,784,149,1,1,https://p3demo-appservice.azurewebsites.net/api/Users,553,0,415
+1666542041613,129,Delete Users,200,OK,endurance 1-26,text,true,,310,151,1,1,https://p3demo-appservice.azurewebsites.net/api/Users/2,129,0,0
+1666542041743,125,Get User by ID,200,OK,endurance 1-26,text,true,,310,151,1,1,https://p3demo-appservice.azurewebsites.net/api/Users/2,125,0,0
+1666542043061,593,Get Users,200,OK,endurance 1-27,text,true,,784,149,1,1,https://p3demo-appservice.azurewebsites.net/api/Users,593,0,453
+1666542043654,131,Delete Users,200,OK,endurance 1-27,text,true,,310,151,1,1,https://p3demo-appservice.azurewebsites.net/api/Users/4,131,0,0
+1666542043786,136,Get User by ID,200,OK,endurance 1-27,text,true,,310,151,1,1,https://p3demo-appservice.azurewebsites.net/api/Users/4,136,0,0
+1666542045058,572,Get Users,200,OK,endurance 1-28,text,true,,784,149,1,1,https://p3demo-appservice.azurewebsites.net/api/Users,572,0,436
+1666542045631,131,Delete Users,200,OK,endurance 1-28,text,true,,310,151,1,1,https://p3demo-appservice.azurewebsites.net/api/Users/6,131,0,0
+1666542045763,130,Get User by ID,200,OK,endurance 1-28,text,true,,310,151,1,1,https://p3demo-appservice.azurewebsites.net/api/Users/6,130,0,0
+1666542047058,570,Get Users,200,OK,endurance 1-29,text,true,,784,149,1,1,https://p3demo-appservice.azurewebsites.net/api/Users,570,0,429
+1666542047629,132,Delete Users,200,OK,endurance 1-29,text,true,,310,151,1,1,https://p3demo-appservice.azurewebsites.net/api/Users/8,132,0,0
+1666542047761,130,Get User by ID,200,OK,endurance 1-29,text,true,,310,151,1,1,https://p3demo-appservice.azurewebsites.net/api/Users/8,130,0,0
+1666542049065,580,Get Users,200,OK,endurance 1-30,text,true,,784,149,1,1,https://p3demo-appservice.azurewebsites.net/api/Users,580,0,430
+1666542049645,133,Delete Users,200,OK,endurance 1-30,text,true,,313,152,1,1,https://p3demo-appservice.azurewebsites.net/api/Users/10,133,0,0
+1666542049779,131,Get User by ID,200,OK,endurance 1-30,text,true,,313,152,1,1,https://p3demo-appservice.azurewebsites.net/api/Users/10,131,0,0
